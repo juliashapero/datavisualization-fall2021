@@ -1,4 +1,4 @@
-# Data-Driven Investigation Critique
+# Data-Driven Investigation Critique of [Targeted](https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/) by the Tampa Bay Times
 
 ## Clarity and Accuracy
 
@@ -16,7 +16,7 @@
 
 ## Creativity
 
-* 4 = I think the article did a fairly good job of using creative elements. As noted above, I liked the use of both feature photos as a visually appealling and emotionally compelling element to the article and stills from bodycam footage as a reinforcement of the individuals' stories. However, as I also said under quality, the story could have benefited from the addition of graphics to visualize data. I think the article could also have been improved by a different design. In a separate story, the Tampa Bay Times examined the body footage in a very interesting manner that I found very visually appealing. As you scroll, different blurbs of text or video pop up which helps center your attention on them. I think it could have been interesting to present portions of the story in this manner, as is often done in other publications. The videos of police enocunters would have also reinforced the sources' stories. 
+* 4 = I think the article did a fairly good job of using creative elements. As noted above, I liked the use of both feature photos as a visually appealling and emotionally compelling element to the article and stills from bodycam footage as a reinforcement of the individuals' stories. However, as I also said under quality, the story could have benefited from the addition of graphics to visualize data. I think the article could also have been improved by a different design. In a separate [story](https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/body-cam-footage/), the Tampa Bay Times examined the bodycam footage in a very interesting manner that I found very visually appealing. As you scroll, different blurbs of text or video pop up which helps center your attention on them. I think it could have been interesting to present portions of the story in this manner, as is often done in other publications. The videos of police enocunters would have also reinforced the sources' stories. 
 
 # Pitch
 

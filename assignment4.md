@@ -49,6 +49,6 @@
 
 ## Sample Headline and Nut Graf
 
-Headline for Questions 2/3: Black, Brown households more likely to be led by single mother
+Headline for Questions 2/3: Black, Brown households more often led by single mother
 
-Nut Graf: Black, American Indian/Alaskan Native, Hawaiian/Pacific Islander and Hispanic households are more likely to be led by a single mother than white, Asian or non-Hispanic households, according to data released by the Census Bureau for August.
+Nut Graf: Black, American Indian/Alaskan Native, Hawaiian/Pacific Islander and Hispanic households are more often led by a single mother than white, Asian or non-Hispanic households, according to data released by the Census Bureau for August.
